@@ -64,11 +64,14 @@ namespace ArraysAndLists
              * Try to be creative in your display. (use string interpolation).
              */
             foreach (int number in myEvensList)
+            {
                 Console.WriteLine($"{number} is an even number. Precisely!");
+            }
 
             foreach (int number in myOddsList)
+            {
                 Console.WriteLine($"How odd, {number} is an odd number!");
-
+            }
             
 
 
