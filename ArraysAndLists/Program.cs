@@ -37,8 +37,6 @@ namespace ArraysAndLists
                     myOddsList.Add(number);
                     
                 }
-                //Console.WriteLine(myEvensList); WHY DOESN'T THIS WORK HERE on this line & WHY DOESN'T IT PRINT THE NUMBERS when using just the variable name ????????? Do printing arrays and lists behave differently ????
-                //Console.WriteLine(myOddsList);
             }
 
 
